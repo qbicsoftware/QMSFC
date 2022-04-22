@@ -1,0 +1,86 @@
+label_plots	sample_name	oncolysis	cell_type	time_point	sample_number	cancer_type	cell_line	mass_value	cancer_type2	sample_name
+COLO_205	COLO_205	unknown	Colon, Adeno-Ca	1	16	Colon	COLO-205	71.9	CO	COLO_205
+HCC_2998	HCC_2998	unknown	Colon, Adeno-Ca	1	15	Colon	HCC-2998	65.4	CO	HCC_2998
+HCT_116	HCT_116	unknown	Colon, Adeno-Ca	1	14	Colon	HCT-116	54.1	CO	HCT_116
+HCT_15	MFI_HCT_15_wk1	resistant	Colon, Adeno-Ca	1	2	Colon	HCT-15	98.4	CO	MFI_HCT_15_wk1
+HCT_15	MFI_HCT_15_wk2	resistant	Colon, Adeno-Ca	2	2	Colon	HCT-15	98.4	CO	MFI_HCT_15_wk2
+HT29	HT_29_wk1	unknown	Colon, Adeno-Ca	1	13	Colon	HT29	54.6	CO	HT_29_wk1
+HT29	HT_29_wk2	unknown	Colon, Adeno-Ca	2	13	Colon	HT29	54.6	CO	HT_29_wk2
+KM12	KM_12_wk1	resistant	Colon, Adeno-Ca	1	4	Colon	KM12	86.9	CO	KM_12_wk1
+KM12	KM_12_wk2	resistant	Colon, Adeno-Ca	2	4	Colon	KM12	86.9	CO	KM_12_wk2
+SW_620	SW_620_wk1	unknown	Colon, Adeno-Ca	1	12	Colon	SW-620	34.3	CO	SW_620_wk1
+SW_620	SW_620_wk2	unknown	Colon, Adeno-Ca	2	12	Colon	SW-620	34.3	CO	SW_620_wk2
+A_549	A549_wk1	unknown	Lung	1	29	Lung	A-549	34.9	LC	A549_wk1
+A_549	A549_wk2	unknown	Lung	2	29	Lung	A-549	34.9	LC	A549_wk2
+EKVX	EKVX	unknown	Lung	1	31	Lung	EKVX	25.8	LC	EKVX
+HOP_62	HOP_62_wk1	resistant	Non-Small Cell Lung, Adeno-Ca	1	9	Lung	HOP-62	83.7	LC	HOP_62_wk1
+HOP_62	HOP_62_wk2	resistant	Non-Small Cell Lung, Adeno-Ca	2	9	Lung	HOP-62	83.7	LC	HOP_62_wk2
+HOP_92	HOP_92_wk1	susceptible	Non-Small Cell Lung, undifferentiated	1	6	Lung	HOP-92	5	LC	HOP_92_wk1
+HOP_92	HOP_92_wk2	susceptible	Non-Small Cell Lung, undifferentiated	2	6	Lung	HOP-92	5	LC	HOP_92_wk2
+H_226	H226	unknown	Lung	1	33	Lung	NCI-H-226	57.8	LC	H226
+H_322M	H322M	unknown	Lung	1	34	Lung	NCI-H-322M	43	LC	H322M
+H_460	H460	unknown	Lung	1	30	Lung	NCI-H-460	21.9	LC	H460
+H_522	H522_wk1	unknown	Lung	1	32	Lung	NCI-H-522	30.9	LC	H522_wk1
+H_522	H522_wk2	unknown	Lung	2	32	Lung	NCI-H-522	30.9	LC	H522_wk2
+H23	MFI_H23_wk1	susceptible	Non-Small Cell Lung, Adeno-Ca	1	1	Lung	NCI-H-23	2.8	LC	MFI_H23_wk1
+H23	MFI_H23_wk2	susceptible	Non-Small Cell Lung, Adeno-Ca	2	1	Lung	NCI-H-23	2.8	LC	MFI_H23_wk2
+LOX_IMVI	LOX_IMVI_wk1	resistant	Melanoma	1	11	Melanoma	LOX-IMVI	82.8	ME	LOX_IMVI_wk1
+LOX_IMVI	LOX_IMVI_wk2	resistant	Melanoma	2	11	Melanoma	LOX-IMVI	82.8	ME	LOX_IMVI_wk2
+M14	M_14_wk1	resistant	Melanoma	1	5	Melanoma	M14	84.3	ME	M_14_wk1
+M14	M_14_wk2	resistant	Melanoma	2	5	Melanoma	M14	84.3	ME	M_14_wk2
+MALME_3M	MALME_3M	unknown	Melanoma	1	17	Melanoma	MALME-3M	58.8	ME	MALME_3M
+MDA_MB_435	MDA_MB435	unknown	Melanoma	1	18	Melanoma	MDA-MB-435	53.9	ME	MDA_MB435
+SK_MEL_2	SK_MEL2	unknown	Melanoma	1	19	Melanoma	SK-MEL-2	30.8	ME	SK_MEL2
+SK_MEL_28	SK_MEL28	unknown	Melanoma	1	20	Melanoma	SK-MEL-28	73	ME	SK_MEL28
+SK_MEL_5	SK_MEL_5_wk1	susceptible	Melanoma	1	3	Melanoma	SK-MEL-5	17.6	ME	SK_MEL_5_wk1
+SK_MEL_5	SK_MEL_5_wk2	susceptible	Melanoma	2	3	Melanoma	SK-MEL-5	17.6	ME	SK_MEL_5_wk2
+UACC_257	UACC_257	unknown	Melanoma	1	22	Melanoma	UACC-257	74.5	ME	UACC_257
+UACC_62	UACC_62	unknown	Melanoma	1	21	Melanoma	UACC-62	53.2	ME	UACC_62
+786_0	786_O_wk1	unknown	Renal Cell Ca	1	24	Renal	786-0	33.4	RE	786_O_wk1
+786_0	786_O_wk2	unknown	Renal Cell Ca	2	24	Renal	786-0	33.4	RE	786_O_wk2
+A_498	A498	unknown	Renal Cell Ca	1	25	Renal	A-498	33.1	RE	A498
+ACHN	ACHN_wk1	resistant	Renal Cell Ca	1	10	Renal	ACHN	79.8	RE	ACHN_wk1
+ACHN	ACHN_wk2	resistant	Renal Cell Ca	2	10	Renal	ACHN	79.8	RE	ACHN_wk2
+CAKI_1	CAKI_1_wk1	unknown	Renal Cell Ca	1	23	Renal	CAKI-1	21.2	RE	CAKI_1_wk1
+CAKI_1	CAKI_1_wk2	unknown	Renal Cell Ca	2	23	Renal	CAKI-1	21.2	RE	CAKI_1_wk2
+RXF_393	RXF393	unknown	Renal Cell Ca	1	28	Renal	RXF-393	72.7	RE	RXF393
+SN12C	SN_12C_wk1	unknown	Renal Cell Ca	1	27	Renal	SN12C	69.8	RE	SN_12C_wk1
+SN12C	SN_12C_wk2	unknown	Renal Cell Ca	2	27	Renal	SN12C	69.8	RE	SN_12C_wk2
+TK_10	TK_10_wk1	susceptible	Renal, Spindle Cell Ca	1	7	Renal	TK-10	18.4	RE	TK_10_wk1
+TK_10	TK_10_wk2	susceptible	Renal, Spindle Cell Ca	2	7	Renal	TK-10	18.4	RE	TK_10_wk2
+UO_31	UO_31	unknown	Renal Cell Ca	1	26	Renal	UO-31	72.9	RE	UO_31
+MDA_MB468_wk1	MDA_MB468_wk1	susceptible	Breast, Adeno-Ca	1	8	Breast	MDA_MB_468	20.6	BR	MDA_MB468_wk1
+MDA_MB468_wk2	MDA_MB468_wk2	susceptible	Breast, Adeno-Ca	2	8	Breast	MDA_MB_468	20.6	BR	MDA_MB468_wk2
+HS_578T	HS_578T	unknown	Breast	1	35	Breast	HS_578T	60	BR	HS_578T
+MCF_7_wk1	MCF_7_wk1	unknown	Breast	1	36	Breast	MCF7	58.4	BR	MCF_7_wk1
+MCF_7_wk2	MCF_7_wk2	unknown	Breast	2	36	Breast	MCF7	58.4	BR	MCF_7_wk2
+MDA_MB_231	MDA_MB_231	unknown	Breast	1	37	Breast	MDA_MB_231	71.8	BR	MDA_MB_231
+BT_549	BT_549	unknown	Breast	1	38	Breast	BT_549	53.5	BR	BT_549
+T47D	T47D	unknown	Breast	1	39	Breast	T_47D	59.3	BR	T47D
+SF_268	SF_268	unknown	CNS	1	40	CNS	SF-268	37.9	CNS	SF_268
+SF_295	SF_295	unknown	CNS	1	41	CNS	SF-295	29.3	CNS	SF_295
+SF_539	SF_539_wk1	unknown	CNS	1	42	CNS	SF-539	18.6	CNS	SF_539_wk1
+SF_539	SF_539_wk2	unknown	CNS	2	42	CNS	SF-539	18.6	CNS	SF_539_wk2
+SNB_19	SNB_19	unknown	CNS	1	43	CNS	SNB-19	58.1	CNS	SNB_19
+SNB_75	SNB_75_wk1	unknown	CNS	1	44	CNS	SNB-75	52.5	CNS	SNB_75_wk1
+SNB_75	SNB_75_wk2	unknown	CNS	2	44	CNS	SNB-75	52.5	CNS	SNB_75_wk2
+U251	U251	unknown	CNS	1	45	CNS	U-251	41.5	CNS	U251
+IGR_OV1	IGR_OV1	unknown	Ovar	1	46	Ovar	IGR-OV1	50.2	OV	IGR_OV1
+NCI/ADR_RES	NCI/ADR_RES	unknown	Ovar	1	47	Ovar	NCI/ADR-RES	51	OV	NCI/ADR_RES
+OVCAR_3	OVCAR_3	unknown	Ovar	1	48	Ovar	OVCAR-3	31.9	OV	OVCAR_3
+OVCAR_4	OVCAR_4_wk1	unknown	Ovar	1	49	Ovar	OVCAR-4	29.2	OV	OVCAR_4_wk1
+OVCAR_4	OVCAR_4_wk2	unknown	Ovar	2	49	Ovar	OVCAR-4	29.2	OV	OVCAR_4_wk2
+OVCAR_5	OVCAR_5	unknown	Ovar	1	50	Ovar	OVCAR-5	68.5	OV	OVCAR_5
+OVCAR_8	OVCAR_8	unknown	Ovar	1	51	Ovar	OVCAR-8	52.2	OV	OVCAR_8
+SK_OV3	SK_OV3	unknown	Ovar	1	52	Ovar	SK-OV3	46.2	OV	SK_OV3
+DU_145	DU_145_wk1	unknown	Prostate	1	53	Prostate	DU-145	34.7	PR	DU_145_wk1
+DU_145	DU_145_wk2	unknown	Prostate	2	53	Prostate	DU-145	34.7	PR	DU_145_wk2
+PC_3	PC_3	unknown	Prostate	1	54	Prostate	PC-3	44.8	PR	PC_3
+CCRF_CEM	CCRF_CEM_wk1	unknown	Leukemia	1	55	Leukemia	CCRF-CEM		LE	CCRF_CEM_wk1
+CCRF_CEM	CCRF_CEM_wk2	unknown	Leukemia	2	55	Leukemia	CCRF-CEM		LE	CCRF_CEM_wk2
+HL_60(TB)	HL_60(TB)	unknown	Leukemia	1	56	Leukemia	HL-60(TB)		LE	HL_60(TB)
+K_562	K_562	unknown	Leukemia	1	57	Leukemia	K-562		LE	K_562
+MOLT_4	MOLT_4	unknown	Leukemia	1	58	Leukemia	MOLT-4		LE	MOLT_4
+RPMI_8226	RPMI_8226	unknown	Leukemia	1	59	Leukemia	RPMI-8226		LE	RPMI_8226
+SR	SR_wk1	unknown	Leukemia	1	60	Leukemia	SR		LE	SR_wk1
+SR	SR_wk2	unknown	Leukemia	2	60	Leukemia	SR		LE	SR_wk2

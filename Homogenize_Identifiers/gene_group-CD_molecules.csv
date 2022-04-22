@@ -1,0 +1,396 @@
+sep=,https://www.genenames.org/data/genegroup/#!/group/471,22.02.2019,,,
+HGNC ID (gene),Approved symbol,Approved name,Previous symbols,Synonyms,Chromosome
+HGNC:1634,CD1A,CD1a molecule,CD1,,1q23.1
+HGNC:1635,CD1B,CD1b molecule,CD1,,1q23.1
+HGNC:1636,CD1C,CD1c molecule,CD1,,1q23.1
+HGNC:1637,CD1D,CD1d molecule,,,1q23.1
+HGNC:1638,CD1E,CD1e molecule,,,1q23.1
+HGNC:1639,CD2,CD2 molecule,SRBC,,1p13.1
+HGNC:1673,CD3D,CD3d molecule,T3D,,11q23.3
+HGNC:1674,CD3E,CD3e molecule,,,11q23.3
+HGNC:1675,CD3G,CD3g molecule,,,11q23.3
+HGNC:1678,CD4,CD4 molecule,,,12p13.31
+HGNC:1685,CD5,CD5 molecule,LEU1,T1,11q12.2
+HGNC:1691,CD6,CD6 molecule,,Tp120,11q12.2
+HGNC:1695,CD7,CD7 molecule,,"GP40,LEU-9,TP41,Tp40",17q25.3
+HGNC:1706,CD8A,CD8a molecule,CD8,,2p11.2
+HGNC:1707,CD8B,CD8b molecule,CD8B1,,2p11.2
+HGNC:1709,CD9,CD9 molecule,MIC3,"BA2,P24,TSPAN29,MRP-1",12p13.31
+HGNC:7154,MME,membrane metalloendopeptidase,,"CALLA,CD10,NEP",3q25.2
+HGNC:6148,ITGAL,integrin subunit alpha L,CD11A,LFA-1,16p11.2
+HGNC:6149,ITGAM,integrin subunit alpha M,"CR3A,CD11B","MAC-1,CD11b",16p11.2
+HGNC:6152,ITGAX,integrin subunit alpha X,CD11C,CD11c,16p11.2
+HGNC:6146,ITGAD,integrin subunit alpha D,,"CD11d,ADB2",16p11.2
+HGNC:500,ANPEP,"alanyl aminopeptidase, membrane","CD13,PEPN","LAP1,gp150,p150",15q26.1
+HGNC:1628,CD14,CD14 molecule,,,5q31.3
+HGNC:4015,FUT4,fucosyltransferase 4,"CD15,FCT3A,ELFT",FUC-TIV,11q21
+HGNC:3619,FCGR3A,Fc fragment of IgG receptor IIIa,"FCGR3,FCG3","CD16,CD16a",1q23.3
+HGNC:3620,FCGR3B,Fc fragment of IgG receptor IIIb,"FCGR3,FCG3","CD16,CD16b",1q23.3
+HGNC:6155,ITGB2,integrin subunit beta 2,"CD18,MFI7","LFA-1,MAC-1",21q22.3
+HGNC:1633,CD19,CD19 molecule,,,16p11.2
+HGNC:7315,MS4A1,membrane spanning 4-domains A1,CD20,"B1,Bp35,MS4A2",11q12.2
+HGNC:2336,CR2,complement C3d receptor 2,,"CD21,C3DR",1q32.2
+HGNC:1643,CD22,CD22 molecule,,"SIGLEC-2,SIGLEC2",19q13.12
+HGNC:3612,FCER2,Fc fragment of IgE receptor II,"CD23A,FCE2","CLEC4J,CD23",19p13.2
+HGNC:1645,CD24,CD24 molecule,,CD24A,6q21
+HGNC:6008,IL2RA,interleukin 2 receptor subunit alpha,"IL2R,IDDM10",CD25,10p15.1
+HGNC:3009,DPP4,dipeptidyl peptidase 4,"CD26,ADCP2",DPPIV,2q24.2
+HGNC:11922,CD27,CD27 molecule,TNFRSF7,"S152,Tp55",12p13.31
+HGNC:1653,CD28,CD28 molecule,,,2q33.2
+HGNC:2505,CTLA4,cytotoxic T-lymphocyte associated protein 4,"CELIAC3,IDDM12","CD152,CD,GSE,CTLA-4",2q33.2
+HGNC:6153,ITGB1,integrin subunit beta 1,"FNRB,MSK12,MDF2","CD29,GPIIA",10p11.22
+HGNC:11923,TNFRSF8,TNF receptor superfamily member 8,"CD30,D1S166E",KI-1,1p36.22
+HGNC:8823,PECAM1,platelet and endothelial cell adhesion molecule 1,,CD31,17q23.3
+HGNC:3616,FCGR2A,Fc fragment of IgG receptor IIa,"FCG2,FCGR2A1,FCGR2","CD32,CD32A,IGFR2,CDw32",1q23.3
+HGNC:3618,FCGR2B,Fc fragment of IgG receptor IIb,"FCG2,FCGR2","CD32,CD32B",1q23.3
+HGNC:15626,FCGR2C,Fc fragment of IgG receptor IIc (gene/pseudogene),,"hFcRII-C,CD32C",1q23.3
+HGNC:1659,CD33,CD33 molecule,,"SIGLEC3,SIGLEC-3,p67,FLJ00391",19q13.41
+HGNC:1662,CD34,CD34 molecule,,,1q32.2
+HGNC:2334,CR1,complement C3b/C4b receptor 1 (Knops blood group),,"CD35,KN",1q32.2
+HGNC:1663,CD36,CD36 molecule,,"SCARB3,GPIV,FAT,GP4,GP3B",7q21.11
+HGNC:1666,CD37,CD37 molecule,,TSPAN26,19q13.33
+HGNC:1667,CD38,CD38 molecule,,,4p15.32
+HGNC:3363,ENTPD1,ectonucleoside triphosphate diphosphohydrolase 1,CD39,"NTPDase-1,ATPDase,SPG64",10q24.1
+HGNC:11919,CD40,CD40 molecule,TNFRSF5,"p50,Bp50",20q13.12
+HGNC:6138,ITGA2B,integrin subunit alpha 2b,GP2B,"CD41B,CD41,PPP1R93",17q21.31
+HGNC:4444,GP9,glycoprotein IX platelet,,"CD42a,GPIX",3q21.3
+HGNC:4439,GP1BA,glycoprotein Ib platelet subunit alpha,GP1B,"CD42b,GPIbalpha",17p13.2
+HGNC:4440,GP1BB,glycoprotein Ib platelet subunit beta,,"CD42c,GPIbbeta",22q11.21
+HGNC:4443,GP5,glycoprotein V platelet,,CD42d,3q29
+HGNC:11249,SPN,sialophorin,,"LSN,CD43,GPL115",16p11.2
+HGNC:1681,CD44,CD44 molecule (Indian blood group),"MIC4,MDU2,MDU3","IN,MC56,Pgp1,CD44R,HCELL,CSPG8",11p13
+HGNC:9666,PTPRC,protein tyrosine phosphatase receptor type C,CD45,"LCA,T200,GP180",1q31.3-q32.1
+HGNC:6953,CD46,CD46 molecule,"MIC10,MCP","TRA2.10,MGC26544,TLX",1q32.2
+HGNC:1682,CD47,CD47 molecule,MER6,"IAP,OA3",3q13.12
+HGNC:1683,CD48,CD48 molecule,BCM1,"BLAST,mCD48,hCD48,SLAMF2",1q23.3
+HGNC:6134,ITGA1,integrin subunit alpha 1,,"VLA1,CD49a",5q11.2
+HGNC:6137,ITGA2,integrin subunit alpha 2,CD49B,CD49b,5q11.2
+HGNC:6139,ITGA3,integrin subunit alpha 3,MSK18,"CD49c,VLA3a,VCA-2,GAP-B3",17q21.33
+HGNC:6140,ITGA4,integrin subunit alpha 4,CD49D,CD49d,2q31.3
+HGNC:6141,ITGA5,integrin subunit alpha 5,FNRA,CD49e,12q13.13
+HGNC:6142,ITGA6,integrin subunit alpha 6,,CD49f,2q31.1
+HGNC:5346,ICAM3,intercellular adhesion molecule 3,,"CDW50,ICAM-R,CD50",19p13.2
+HGNC:6150,ITGAV,integrin subunit alpha V,"VNRA,MSK8,VTNR",CD51,2q32.1
+HGNC:1804,CD52,CD52 molecule,CDW52,"HE5,EDDM5",1p36.11
+HGNC:1686,CD53,CD53 molecule,MOX44,TSPAN25,1p13.3
+HGNC:5344,ICAM1,intercellular adhesion molecule 1,,"BB2,CD54",19p13.2
+HGNC:2665,CD55,CD55 molecule (Cromer blood group),DAF,"CR,TC,CROM",1q32.2
+HGNC:7656,NCAM1,neural cell adhesion molecule 1,,"NCAM,CD56",11q23.2
+HGNC:921,B3GAT1,"beta-1,3-glucuronyltransferase 1","CD57,LEU7","GlcAT-P,HNK-1,NK-1",11q25
+HGNC:1688,CD58,CD58 molecule,LFA3,,1p13.1
+HGNC:1689,CD59,CD59 molecule (CD59 blood group),"MIC11,MIN1,MSK21,MIN2,MIN3","16.3A5,EJ16,EJ30,EL32,G344,p18-20",11p13
+HGNC:6156,ITGB3,integrin subunit beta 3,GP3A,"CD61,GPIIIa",17q21.32
+HGNC:10718,SELE,selectin E,"ELAM1,ELAM","ESEL,CD62E",1q24.2
+HGNC:10720,SELL,selectin L,"LYAM1,LNHR","LSEL,LAM1,LAM-1,hLHRc,Leu-8,Lyam-1,PLNHR,CD62L",1q24.2
+HGNC:10721,SELP,selectin P,GRMP,"CD62,PSEL,PADGEM,GMP140,CD62P",1q24.2
+HGNC:1692,CD63,CD63 molecule,MLA1,"ME491,TSPAN30",12q13.2
+HGNC:3613,FCGR1A,Fc fragment of IgG receptor Ia,,"CD64,CD64A",1q21.2
+HGNC:1814,CEACAM1,carcinoembryonic antigen related cell adhesion molecule 1,BGP,"BGP1,CD66a",19q13.2
+HGNC:1820,CEACAM8,carcinoembryonic antigen related cell adhesion molecule 8,CGM6,CD66b,19q13.2
+HGNC:1818,CEACAM6,carcinoembryonic antigen related cell adhesion molecule 6,NCA,CD66c,19q13.2
+HGNC:1815,CEACAM3,carcinoembryonic antigen related cell adhesion molecule 3,CGM1,CD66d,19q13.2
+HGNC:1817,CEACAM5,carcinoembryonic antigen related cell adhesion molecule 5,CEA,CD66e,19q13.2
+HGNC:9514,PSG1,pregnancy specific beta-1-glycoprotein 1,PSBG1,"PSGGA,CD66f,PBG1",19q13.2
+HGNC:1693,CD68,CD68 molecule,,"SCARD1,macrosialin,GP110,DKFZp686M18236,LAMP4",17p13.1
+HGNC:1694,CD69,CD69 molecule,,CLEC2C,12p13.31
+HGNC:11937,CD70,CD70 molecule,"CD27LG,TNFSF7",CD27L,19p13.3
+HGNC:11763,TFRC,transferrin receptor,,"CD71,TFR1,p90",3q29
+HGNC:1696,CD72,CD72 molecule,,"LYB2,CD72b",9p13.3
+HGNC:8021,NT5E,5'-nucleotidase ecto,NT5,"CD73,eN,eNT,CALJA",6q14.3
+HGNC:1697,CD74,CD74 molecule,DHLAG,,5q33.1
+HGNC:1698,CD79A,CD79a molecule,IGA,MB-1,19q13.2
+HGNC:1699,CD79B,CD79b molecule,IGB,B29,17q23.3
+HGNC:1700,CD80,CD80 molecule,"CD28LG,CD28LG1","B7.1,B7-1",3q13.33
+HGNC:1701,CD81,CD81 molecule,TAPA1,"TAPA-1,TSPAN28",11p15.5
+HGNC:6210,CD82,CD82 molecule,"ST6,KAI1","R2,IA4,TSPAN27",11p11.2
+HGNC:1703,CD83,CD83 molecule,,"HB15,BL11",6p23
+HGNC:1704,CD84,CD84 molecule,,"SLAMF5,hCD84,mCD84",1q23.3
+HGNC:6607,LILRB3,leukocyte immunoglobulin like receptor B3,,"LIR-3,HL9,ILT5,LIR3,CD85a,PIRB,PIR-B",19q13.42
+HGNC:15495,LILRA6,leukocyte immunoglobulin like receptor A6,LILRB6,"ILT8,CD85b",19q13.42
+HGNC:6609,LILRB5,leukocyte immunoglobulin like receptor B5,,"LIR-8,LIR8,CD85c",19q13.4
+HGNC:6606,LILRB2,leukocyte immunoglobulin like receptor B2,,"LIR-2,ILT4,MIR-10,LIR2,CD85d,MIR10",19q13.4
+HGNC:6604,LILRA3,leukocyte immunoglobulin like receptor A3,,"LIR-4,HM43,ILT6,HM31,LIR4,CD85e",19q13.4 alternate reference locus
+HGNC:16309,LILRA5,leukocyte immunoglobulin like receptor A5,LILRB7,"ILT11,LIR9,CD85,CD85f",19q13.42
+HGNC:15503,LILRA4,leukocyte immunoglobulin like receptor A4,,"ILT7,CD85g",19q13.42
+HGNC:6603,LILRA2,leukocyte immunoglobulin like receptor A2,,"LIR-7,ILT1,CD85h,LIR7",19q13.4
+HGNC:6602,LILRA1,leukocyte immunoglobulin like receptor A1,,"LIR-6,CD85i,LIR6",19q13.42
+HGNC:6605,LILRB1,leukocyte immunoglobulin like receptor B1,,"LIR-1,ILT2,MIR-7,CD85,LIR1,CD85j,PIRB,PIR-B",19q13.42
+HGNC:6608,LILRB4,leukocyte immunoglobulin like receptor B4,,"LIR-5,ILT3,HM18,LIR5,CD85k",19q13.42
+HGNC:15496,LILRP1,leukocyte immunoglobulin-like receptor pseudogene 1,,"ILT9,CD85l,LILRA6P",19q13.42
+HGNC:15497,LILRP2,leukocyte immunoglobulin-like receptor pseudogene 2,,"ILT10,CD85m",19q13.42
+HGNC:1705,CD86,CD86 molecule,CD28LG2,"B7.2,B7-2",3q13.33
+HGNC:9053,PLAUR,"plasminogen activator, urokinase receptor",,"URKR,UPAR,CD87",19q13
+HGNC:1338,C5AR1,complement C5a receptor 1,C5R1,"C5A,C5AR,CD88",19q13.32
+HGNC:3608,FCAR,Fc fragment of IgA receptor,,CD89,19q13.42
+HGNC:11801,THY1,Thy-1 cell surface antigen,,CD90,11q23.3
+HGNC:6692,LRP1,LDL receptor related protein 1,"APR,A2MR,IGFBP3R1,IGFBP-3R","LRP,CD91,LRP1A,APOER",12q13.3
+HGNC:18798,SLC44A1,solute carrier family 44 member 1,CDW92,"CDw92,CTL1,CHTL1,CD92",9q31.1-q31.2
+HGNC:15855,CD93,CD93 molecule,"MXRA4,C1QR1","C1qRP,C1qR(P),dJ737E23.1,CDw93,ECSM3",20p11.21
+HGNC:6378,KLRD1,killer cell lectin like receptor D1,CD94,,12p13
+HGNC:11920,FAS,Fas cell surface death receptor,"FAS1,APT1,TNFRSF6","CD95,APO-1",10q23.31
+HGNC:16892,CD96,CD96 molecule,,TACTILE,3q13.13-q13.2
+HGNC:1711,ADGRE5,adhesion G protein-coupled receptor E5,CD97,TM7LN1,19p13.12
+HGNC:11063,SLC7A5,solute carrier family 7 member 5,,"LAT1,E16,D16S469E,MPE16,CD98",16q24.2
+HGNC:7082,CD99,CD99 molecule (Xg blood group),MIC2,,Xp22.32 and Yp11.3
+HGNC:10732,SEMA4D,semaphorin 4D,"SEMAJ,C9orf164","CD100,coll-4,FLJ39737",9q22.2
+HGNC:5949,CD101,CD101 molecule,IGSF2,V7,1p13.1
+HGNC:5345,ICAM2,intercellular adhesion molecule 2,,CD102,17q23.3
+HGNC:6147,ITGAE,integrin subunit alpha E,,"CD103,HUMINAE",17p13.2
+HGNC:6158,ITGB4,integrin subunit beta 4,,CD104,17q25.1
+HGNC:3349,ENG,endoglin,"ORW1,ORW","END,HHT1,CD105",9q34.11
+HGNC:12663,VCAM1,vascular cell adhesion molecule 1,,CD106,1p21.2
+HGNC:6499,LAMP1,lysosomal associated membrane protein 1,,CD107a,13q34
+HGNC:6501,LAMP2,lysosomal associated membrane protein 2,,CD107b,Xq24
+HGNC:10741,SEMA7A,semaphorin 7A (John Milton Hagen blood group),SEMAL,"H-Sema-L,CD108",15q24.1
+HGNC:21685,CD109,CD109 molecule,,"FLJ38569,DKFZp762L1111,CPAMD7",6q13
+HGNC:7217,MPL,"MPL proto-oncogene, thrombopoietin receptor",,"CD110,TPOR,THPOR",1p34.2
+HGNC:9706,NECTIN1,nectin cell adhesion molecule 1,"HVEC,ED4,PVRL1","PRR,PRR1,PVRR1,SK-12,HIgR,CLPED1,CD111,OFC7",11q23.3
+HGNC:9707,NECTIN2,nectin cell adhesion molecule 2,"HVEB,PVRL2","PVRR2,PRR2,CD112",19q13.32
+HGNC:17664,NECTIN3,nectin cell adhesion molecule 3,PVRL3,"nectin-3,PPR3,PVRR3,DKFZP566B0846,CDw113,CD113",3q13.13
+HGNC:2439,CSF3R,colony stimulating factor 3 receptor,CD114,GCSFR,1p34.3
+HGNC:2433,CSF1R,colony stimulating factor 1 receptor,FMS,"C-FMS,CSFR,CD115",5q32
+HGNC:2435,CSF2RA,colony stimulating factor 2 receptor alpha subunit,CSF2R,"CD116,alphaGMR",Xp22.32 and Yp11.3
+HGNC:6342,KIT,"KIT proto-oncogene, receptor tyrosine kinase",PBT,"CD117,SCFR,C-Kit",4q12
+HGNC:6597,LIFR,LIF receptor alpha,,CD118,5p13.1
+HGNC:5439,IFNGR1,interferon gamma receptor 1,IFNGR,CD119,6q23.3
+HGNC:11916,TNFRSF1A,TNF receptor superfamily member 1A,TNFR1,"TNF-R,TNFAR,TNFR60,TNF-R-I,CD120a,TNF-R55",12p13.31
+HGNC:11917,TNFRSF1B,TNF receptor superfamily member 1B,TNFR2,"TNFBR,TNFR80,TNF-R75,TNF-R-II,p75,CD120b",1p36.22
+HGNC:5993,IL1R1,interleukin 1 receptor type 1,"IL1R,IL1RA","D2S1473,CD121A",2q11.2-q12.1
+HGNC:5994,IL1R2,interleukin 1 receptor type 2,IL1RB,CD121b,2q11.2
+HGNC:6009,IL2RB,interleukin 2 receptor subunit beta,IL15RB,CD122,22q12.3
+HGNC:6012,IL3RA,interleukin 3 receptor subunit alpha,,CD123,Xp22.3 and Yp13.3
+HGNC:6015,IL4R,interleukin 4 receptor,,CD124,16p12.1
+HGNC:6017,IL5RA,interleukin 5 receptor subunit alpha,IL5R,"CDw125,CD125",3p26.2
+HGNC:6019,IL6R,interleukin 6 receptor,,CD126,1q21.3
+HGNC:6024,IL7R,interleukin 7 receptor,,"CD127,IL7RA",5p13.2
+HGNC:6030,IL9R,interleukin 9 receptor,,CD129,Xq28 and Yq12
+HGNC:6021,IL6ST,interleukin 6 signal transducer,,"GP130,CD130",5q11.2
+HGNC:2436,CSF2RB,colony stimulating factor 2 receptor beta common subunit,IL3RB,"IL5RB,CD131,betaGMR",22q12.3
+HGNC:6010,IL2RG,interleukin 2 receptor subunit gamma,"SCIDX1,IMD4,CIDX",CD132,Xq13.1
+HGNC:9454,PROM1,prominin 1,"PROML1,MCDR2,STGD4","AC133,CD133,RP41,CORD12",4p15.32
+HGNC:11918,TNFRSF4,TNF receptor superfamily member 4,TXGP1L,"ACT35,OX40,CD134",1p36.33
+HGNC:3765,FLT3,fms related tyrosine kinase 3,,"STK1,FLK2,CD135",13q12.2
+HGNC:7381,MST1R,macrophage stimulating 1 receptor,"RON,PTK8","CDw136,CD136",3p21.31
+HGNC:11924,TNFRSF9,TNF receptor superfamily member 9,ILA,"CD137,4-1BB",1p36.23
+HGNC:10658,SDC1,syndecan 1,SDC,"CD138,syndecan,SYND1",2p24.1
+HGNC:8803,PDGFRA,platelet derived growth factor receptor alpha,,"CD140a,PDGFR2,GAS9",4q12
+HGNC:8804,PDGFRB,platelet derived growth factor receptor beta,PDGFR,"JTK12,CD140b,PDGFR1",5q32
+HGNC:11784,THBD,thrombomodulin,,CD141,20p11.21
+HGNC:3541,F3,"coagulation factor III, tissue factor",,"CD142,TF",1p21.3
+HGNC:2707,ACE,angiotensin I converting enzyme,DCP1,"ACE1,CD143",17q23.3
+HGNC:1764,CDH5,cadherin 5,,"7B4,CD144",16q21
+HGNC:6934,MCAM,melanoma cell adhesion molecule,,"MUC18,CD146,MelCAM,METCAM,HEMCAM",11q23.3
+HGNC:1116,BSG,basigin (Ok blood group),OK,"EMMPRIN,CD147,EMPRIN",19p13.3
+HGNC:9673,PTPRJ,protein tyrosine phosphatase receptor type J,,"DEP1,HPTPeta,CD148",11p11.2
+HGNC:10903,SLAMF1,signaling lymphocytic activation molecule family member 1,SLAM,CD150,1q23.3
+HGNC:1630,CD151,CD151 molecule (Raph blood group),,"SFA-1,PETA-3,TSPAN24,RAPH",11p15.5
+HGNC:11938,TNFSF8,TNF superfamily member 8,CD30LG,CD153,9q32-q33.1
+HGNC:11935,CD40LG,CD40 ligand,"HIGM1,IMD3,TNFSF5","CD40L,TRAP,gp39,hCD40L,CD154",Xq26.3
+HGNC:9705,PVR,poliovirus receptor,PVS,"CD155,HVED,Necl-5,NECL5,Tage4",19q13.31
+HGNC:188,ADAM10,ADAM metallopeptidase domain 10,,"kuz,MADM,HsT18717,CD156c",15q21.3
+HGNC:215,ADAM8,ADAM metallopeptidase domain 8,,"CD156,MS2,CD156a",10q26.3
+HGNC:195,ADAM17,ADAM metallopeptidase domain 17,TACE,"cSVP,CD156B",2p25.1
+HGNC:1118,BST1,bone marrow stromal cell antigen 1,,CD157,4p15.32
+HGNC:6329,KIR2DL1,"killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 1",,"cl-42,nkat1,47.11,p58.1,CD158A",19q13.42
+HGNC:6330,KIR2DL2,"killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 2",,"cl-43,nkat6,CD158B1,CD158k",19q13.4 alternate reference locus
+HGNC:6331,KIR2DL3,"killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 3",,"cl-6,nkat2,nkat2a,nkat2b,p58,CD158B2",19q13.42
+HGNC:16343,KIR3DP1,"killer cell immunoglobulin like receptor, three Ig domains pseudogene 1",,"KIRX,KIR48,KIR2DS6,KIR3DS2P,CD158C",19q13.42
+HGNC:6332,KIR2DL4,"killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 4",,"103AS,15.212,CD158D",19q13.42
+HGNC:6338,KIR3DL1,"killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 1",KIR,"cl-2,NKB1,cl-11,nkat3,NKB1B,AMB11,CD158e1/2,CD158E1,CD158e2",19q13.42
+HGNC:16345,KIR2DL5A,"killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 5A",,"KIR2DL5.1,KIR2DL5,CD158F",19q13.4 alternate reference locus
+HGNC:6337,KIR2DS5,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 5",,"nkat9,CD158G",19q13.4 alternate reference locus
+HGNC:6333,KIR2DS1,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 1",,"EB6ActI,EB6ActII,CD158H",19q13.4 alternate reference locus
+HGNC:6336,KIR2DS4,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4",,"cl-39,KKA3,nkat8,CD158i",19q13.42
+HGNC:6334,KIR2DS2,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 2",,"cl-49,nkat5,183ActI,CD158J",19q13.4 alternate reference locus
+HGNC:6339,KIR3DL2,"killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 2",,"cl-5,nkat4,nkat4a,nkat4b,CD158K",19q13.42
+HGNC:16312,KIR3DL3,"killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 3",,"KIRC1,KIR3DL7,KIR44,CD158z",19q13.42
+HGNC:6374,KLRC1,killer cell lectin like receptor C1,NKG2,"NKG2-A,NKG2-B,CD159a",12p13
+HGNC:6375,KLRC2,killer cell lectin like receptor C2,,"NKG2-C,CD159c",12p13
+HGNC:17013,CD160,CD160 molecule,,"BY55,NK1,NK28",1q21.1
+HGNC:6373,KLRB1,killer cell lectin like receptor B1,NKR,"CD161,NKR-P1,NKR-P1A,hNKR-P1A,CLEC5B",12p13.31
+HGNC:10722,SELPLG,selectin P ligand,,"PSGL-1,CD162",12q24.11
+HGNC:1631,CD163,CD163 molecule,,"M130,MM130,SCARI1",12p13.31
+HGNC:1632,CD164,CD164 molecule,,"MUC-24,MGC-24,DFNA66",6q21
+HGNC:400,ALCAM,activated leukocyte cell adhesion molecule,,"CD166,MEMD",3q13.11
+HGNC:2730,DDR1,discoidin domain receptor tyrosine kinase 1,"NTRK4,PTK3A,NEP,CAK,EDDR1","RTK6,CD167",6p21.33
+HGNC:5012,HMMR,hyaluronan mediated motility receptor,,"RHAMM,CD168",5q34
+HGNC:11127,SIGLEC1,sialic acid binding Ig like lectin 1,SN,"SIGLEC-1,CD169,FLJ00051,FLJ00055,FLJ00073,FLJ32150,dJ1009E24.1,sialoadhesin",20p13
+HGNC:10874,SIGLEC5,sialic acid binding Ig like lectin 5,CD33L2,"OB-BP2,SIGLEC-5,CD170",19q13.41
+HGNC:6470,L1CAM,L1 cell adhesion molecule,"HSAS1,SPG1,HSAS,MASA,MIC5,S10",CD171,Xq28
+HGNC:9662,SIRPA,signal regulatory protein alpha,PTPNS1,"SHPS1,SIRP,MYD-1,BIT,P84,SHPS-1,SIRPalpha,CD172a,SIRPalpha2,MFR,SIRP-ALPHA-1",20p13
+HGNC:15928,SIRPB1,signal regulatory protein beta 1,,"SIRP-BETA-1,CD172b",20p13
+HGNC:15757,SIRPG,signal regulatory protein gamma,SIRPB2,"bA77C3.1,SIRP-B2,SIRPgamma,CD172g",20p13
+HGNC:4014,FUT3,fucosyltransferase 3 (Lewis blood group),LE,CD174,19p13.3
+HGNC:30072,CD177,CD177 molecule,,"PRV1,HNA2A,NB1",19q13.31
+HGNC:11936,FASLG,Fas ligand,"APT1LG1,TNFSF6","FasL,CD178",1q24.3
+HGNC:12709,VPREB1,V-set pre-B cell surrogate light chain 1,,"VpreB,CD179A",22q11.22
+HGNC:5870,IGLL1,immunoglobulin lambda like polypeptide 1,IGLL,"IGVPB,IGL5,14.1,CD179B",22q11.23
+HGNC:6726,CD180,CD180 molecule,LY64,"RP105,Ly78",5q12.3
+HGNC:6026,CXCR1,C-X-C motif chemokine receptor 1,"CMKAR1,IL8RA","CKR-1,CDw128a,CD181",2q35
+HGNC:6027,CXCR2,C-X-C motif chemokine receptor 2,IL8RB,"CMKAR2,CD182",2q35
+HGNC:4540,CXCR3,C-X-C motif chemokine receptor 3,GPR9,"CKR-L2,CMKAR3,IP10-R,MigR,CD183",Xq13.1
+HGNC:2561,CXCR4,C-X-C motif chemokine receptor 4,,"LESTR,NPY3R,HM89,NPYY3R,D2S201E,fusin,HSY3RR,NPYR,CD184",2q22.1
+HGNC:1060,CXCR5,C-X-C motif chemokine receptor 5,BLR1,"MDR15,CD185",11q23.3
+HGNC:16647,CXCR6,C-X-C motif chemokine receptor 6,,"TYMSTR,STRL33,BONZO,CD186",3p21.31
+HGNC:1602,CCR1,C-C motif chemokine receptor 1,"SCYAR1,CMKBR1","CKR-1,MIP1aR,CD191",3p21.31
+HGNC:1603,CCR2,C-C motif chemokine receptor 2,CMKBR2,"CC-CKR-2,CKR2,MCP-1-R,CD192,FLJ78302",3p21.31
+HGNC:1604,CCR3,C-C motif chemokine receptor 3,CMKBR3,"CC-CKR-3,CKR3,CD193",3p21.31
+HGNC:1605,CCR4,C-C motif chemokine receptor 4,,"CC-CKR-4,CMKBR4,CKR4,k5-5,ChemR13,CD194",3p22.3
+HGNC:1606,CCR5,C-C motif chemokine receptor 5 (gene/pseudogene),CMKBR5,"CKR-5,CC-CKR-5,CKR5,CD195,IDDM22",3p21.31
+HGNC:1607,CCR6,C-C motif chemokine receptor 6,STRL22,"CKR-L3,GPR-CY4,CMKBR6,GPR29,DRY-6,DCR2,BN-1,CD196",6q27
+HGNC:1608,CCR7,C-C motif chemokine receptor 7,"CMKBR7,EBI1","BLR2,CDw197,CD197",17q21.2
+HGNC:1609,CCR8,C-C motif chemokine receptor 8,"CMKBRL2,CMKBR8","CY6,TER1,CKR-L1,GPR-CY6,CDw198",3p22.1
+HGNC:1610,CCR9,C-C motif chemokine receptor 9,GPR28,"GPR-9-6,CDw199",3p21.31
+HGNC:7203,CD200,CD200 molecule,"MOX1,MOX2","MRC,OX-2",3q13.2
+HGNC:9452,PROCR,protein C receptor,,"EPCR,CCD41,CD201",20q11.22
+HGNC:11724,TEK,TEK receptor tyrosine kinase,VMCM,"TIE2,TIE-2,VMCM1,CD202b",9p21.2
+HGNC:3358,ENPP3,ectonucleotide pyrophosphatase/phosphodiesterase 3,PDNP3,"PD-IBETA,gp130RB13-6,B10,CD203c",6q23.2
+HGNC:7376,MSR1,macrophage scavenger receptor 1,,"SCARA1,CD204,SR-AI,SR-AII,SR-AIII,SR-A",8p22
+HGNC:6729,LY75,lymphocyte antigen 75,,"DEC-205,CLEC13B,CD205",2q24.2
+HGNC:7228,MRC1,mannose receptor C-type 1,MRC1L1,"CLEC13D,CD206,bA541I19.1,CLEC13DL",10p12.33
+HGNC:17935,CD207,CD207 molecule,,"Langerin,CLEC4K",2p13.3
+HGNC:14582,LAMP3,lysosomal associated membrane protein 3,,"LAMP,TSC403,DC-LAMP,DCLAMP,CD208",3q27.1
+HGNC:1641,CD209,CD209 molecule,,"DC-SIGN,CDSIGN,DC-SIGN1,CLEC4L",19p13.2
+HGNC:5964,IL10RA,interleukin 10 receptor subunit alpha,IL10R,"HIL-10R,CDW210A,CD210a,CD210",11q23.3
+HGNC:5965,IL10RB,interleukin 10 receptor subunit beta,"CRFB4,D21S58,D21S66","CRF2-4,CDW210B,IL-10R2",21q22.11
+HGNC:5971,IL12RB1,interleukin 12 receptor subunit beta 1,IL12RB,CD212,19p13.11
+HGNC:5974,IL13RA1,interleukin 13 receptor subunit alpha 1,,"IL-13Ra,NR4,CD213a1",Xq24
+HGNC:5975,IL13RA2,interleukin 13 receptor subunit alpha 2,,"IL-13R,IL13BP,CD213a2,CT19",Xq23
+HGNC:5978,IL15RA,interleukin 15 receptor subunit alpha,,"CD215,IL-15RA",10p15.1
+HGNC:5985,IL17RA,interleukin 17 receptor A,IL17R,"hIL-17R,IL-17RA,CDw217,CD217",22q11.1
+HGNC:5988,IL18R1,interleukin 18 receptor 1,,"IL1RRP,IL-1Rrp,CD218a",2q12.1
+HGNC:5989,IL18RAP,interleukin 18 receptor accessory protein,,"AcPL,CD218b",2q12.1
+HGNC:6091,INSR,insulin receptor,,CD220,19p13.2
+HGNC:5465,IGF1R,insulin like growth factor 1 receptor,,"JTK13,CD221,IGFIR,MGC18216,IGFR",15q26.3
+HGNC:5467,IGF2R,insulin like growth factor 2 receptor,,"CD222,MPRI,MPR1,CIMPR,M6P-R,CI-M6PR,CI-MPR,MPR300",6q25.3
+HGNC:6476,LAG3,lymphocyte activating 3,,CD223,12p13.31
+HGNC:4250,GGT1,gamma-glutamyltransferase 1,GGT,"D22S672,D22S732,CD224",22q11.23
+HGNC:5412,IFITM1,interferon induced transmembrane protein 1,IFI17,"9-27,CD225,DSPA2a",11p15.5
+HGNC:16961,CD226,CD226 molecule,,"DNAM-1,DNAM1,PTA1,TLiSA1",18q22.2
+HGNC:7508,MUC1,"mucin 1, cell surface associated","PUM,MCKD1","CD227,PEM,ADMCKD,ADMCKD1,MCKD,MCD",1q22
+HGNC:7037,MELTF,melanotransferrin,MFI2,"CD228,FLJ38863,MAP97,MGC4856,MTF1,MTf",3q29
+HGNC:6730,LY9,lymphocyte antigen 9,,"CD229,mLY9,SLAMF3,hly9",1q23.3
+HGNC:9449,PRNP,prion protein,"PRIP,GSS,CJD","CD230,PRP,AltPrP",20p13
+HGNC:11854,TSPAN7,tetraspanin 7,"MXS1,TM4SF2,MRX58","DXS1692E,TALLA-1,A15,CD231",Xp11.4
+HGNC:9106,PLXNC1,plexin C1,,"VESPR,CD232",12q22
+HGNC:11027,SLC4A1,solute carrier family 4 member 1 (Diego blood group),"EPB3,AE1,DI,WD","RTA1A,CD233,FR,SW,WR",17q21.31
+HGNC:4035,ACKR1,atypical chemokine receptor 1 (Duffy blood group),"FY,DARC","CCBP1,GPD,Dfy,CD234",1q23.2
+HGNC:4702,GYPA,glycophorin A (MNS blood group),MNS,"GPA,MN,CD235a",4q31.21
+HGNC:4703,GYPB,glycophorin B (MNS blood group),MNS,"GPB,SS,CD235b",4q31.21
+HGNC:4704,GYPC,glycophorin C (Gerbich blood group),,"GPC,GYPD,Ge,CD236,CD236R",2q14.3
+HGNC:6308,KEL,Kell metallo-endopeptidase (Kell blood group),,"ECE3,CD238",7q34
+HGNC:6722,BCAM,basal cell adhesion molecule (Lutheran blood group),LU,CD239,19q13.32
+HGNC:10008,RHCE,Rh blood group CcEe antigens,RH,CD240CE,1p36.11
+HGNC:10009,RHD,Rh blood group D antigen,RH,"Rh30a,Rh4,RhPI,RhII,DIIIc,CD240D",1p36.11
+HGNC:10006,RHAG,Rh associated glycoprotein,,"RH50A,CD241,SLC42A1",6p12.3
+HGNC:5347,ICAM4,intercellular adhesion molecule 4 (Landsteiner-Wiener blood group),LW,CD242,19p13.2
+HGNC:40,ABCB1,ATP binding cassette subfamily B member 1,"PGY1,MDR1,CLCS","P-gp,CD243,GP170,ABC20",7q21.12
+HGNC:18171,CD244,CD244 molecule,,"2B4,NAIL,NKR2B4,Nmrk,SLAMF4",1q23.3
+HGNC:427,ALK,ALK receptor tyrosine kinase,,CD246,2p23.2-p23.1
+HGNC:1677,CD247,CD247 molecule,CD3Z,"CD3H,CD3Q",1q24.2
+HGNC:18219,CD248,CD248 molecule,CD164L1,TEM1,11q13.2
+HGNC:3355,ENPEP,glutamyl aminopeptidase,,"gp160,CD249",4q25
+HGNC:11934,TNFSF4,TNF superfamily member 4,TXGP1,"OX-40L,gp34,CD252",1q25.1
+HGNC:11925,TNFSF10,TNF superfamily member 10,,"TRAIL,Apo-2L,TL2,CD253",3q26
+HGNC:11926,TNFSF11,TNF superfamily member 11,,"TRANCE,RANKL,OPGL,ODF,CD254",13q14
+HGNC:11928,TNFSF13,TNF superfamily member 13,,"APRIL,CD256",17p13.1
+HGNC:11929,TNFSF13B,TNF superfamily member 13b,TNFSF20,"BAFF,THANK,BLYS,TALL-1,TALL1,CD257",13q33.3
+HGNC:11930,TNFSF14,TNF superfamily member 14,,"LIGHT,LTg,HVEM-L,CD258",19p13.3
+HGNC:11904,TNFRSF10A,TNF receptor superfamily member 10a,,"DR4,Apo2,TRAILR-1,CD261,TRAILR1",8p21.3
+HGNC:11905,TNFRSF10B,TNF receptor superfamily member 10b,,"DR5,KILLER,TRICK2A,TRAIL-R2,TRICKB,CD262,TRAILR2",8p21.3
+HGNC:11906,TNFRSF10C,TNF receptor superfamily member 10c,,"DcR1,TRAILR3,LIT,TRID,CD263",8p21.3
+HGNC:11907,TNFRSF10D,TNF receptor superfamily member 10d,,"DcR2,TRUNDD,TRAILR4,CD264",8p21.3
+HGNC:11908,TNFRSF11A,TNF receptor superfamily member 11a,"PDB2,LOH18CR1","RANK,CD265,FEO",18q21.33
+HGNC:18152,TNFRSF12A,TNF receptor superfamily member 12A,,"FN14,TweakR,CD266",16p13.3
+HGNC:18153,TNFRSF13B,TNF receptor superfamily member 13B,,"TACI,CD267,IGAD2",17p11.2
+HGNC:17755,TNFRSF13C,TNF receptor superfamily member 13C,,"BAFFR,CD268",22q13.2
+HGNC:11913,TNFRSF17,TNF receptor superfamily member 17,BCMA,"BCM,CD269,TNFRSF13A",16p13.13
+HGNC:11912,TNFRSF14,TNF receptor superfamily member 14,,"HVEM,ATAR,TR2,LIGHTR,HVEA,CD270",1p36.32
+HGNC:7809,NGFR,nerve growth factor receptor,,"TNFRSF16,CD271,p75NTR",17q21.33
+HGNC:21087,BTLA,B and T lymphocyte associated,,"BTLA1,CD272",3q13.2
+HGNC:18731,PDCD1LG2,programmed cell death 1 ligand 2,,"PD-L2,Btdc,PDL2,bA574F11.2,CD273,B7-DC",9p24.1
+HGNC:17635,CD274,CD274 molecule,PDCD1LG1,"B7-H,B7H1,PD-L1,PDL1,B7-H1",9p24.1
+HGNC:17087,ICOSLG,inducible T cell costimulator ligand,ICOSL,"KIAA0653,GL50,B7-H2,B7RP-1,B7H2,B7RP1,ICOS-L,CD275",21q22.3
+HGNC:19137,CD276,CD276 molecule,,"B7-H3,B7H3,B7RP-2",15q24.1
+HGNC:1138,BTN3A1,butyrophilin subfamily 3 member A1,,"BT3.1,BTF5,CD277,BTN3.1",6p22.2
+HGNC:5351,ICOS,inducible T cell costimulator,,"AILIM,CD278",2q33.2
+HGNC:8760,PDCD1,programmed cell death 1,SLEB2,"CD279,PD1,hSLE1,PD-1",2q37.3
+HGNC:16875,MRC2,mannose receptor C type 2,,"KIAA0709,ENDO180,CLEC13E,CD280",17q23
+HGNC:11847,TLR1,toll like receptor 1,,"rsc786,KIAA0012,CD281",4p14
+HGNC:11848,TLR2,toll like receptor 2,,"TIL4,CD282",4q31.3
+HGNC:11849,TLR3,toll like receptor 3,,CD283,4q35.1
+HGNC:11850,TLR4,toll like receptor 4,,"hToll,CD284,TLR-4,ARMD10",9q33.1
+HGNC:16711,TLR6,toll like receptor 6,,CD286,4p14
+HGNC:15632,TLR8,toll like receptor 8,,CD288,Xp22.2
+HGNC:15633,TLR9,toll like receptor 9,,CD289,3p21.2
+HGNC:15634,TLR10,toll like receptor 10,,CD290,4p14
+HGNC:1076,BMPR1A,bone morphogenetic protein receptor type 1A,ACVRLK3,"ALK3,CD292",10q23.2
+HGNC:1077,BMPR1B,bone morphogenetic protein receptor type 1B,,"ALK6,CDw293",4q22.3
+HGNC:4502,PTGDR2,prostaglandin D2 receptor 2,GPR44,"CRTH2,CD294,DP2",11q12.2
+HGNC:6554,LEPR,leptin receptor,,"OBR,CD295",1p31.3
+HGNC:723,ART1,ADP-ribosyltransferase 1,,"ART2,CD296",11p15.4
+HGNC:726,ART4,ADP-ribosyltransferase 4 (Dombrock blood group),DO,"DOK1,CD297",12p12.3
+HGNC:806,ATP1B3,ATPase Na+/K+ transporting subunit beta 3,,"FLJ29027,CD298",3q23
+HGNC:13523,CLEC4M,C-type lectin domain family 4 member M,"CD209L,CD299","HP10347,DC-SIGNR,LSIGN,DCSIGNR,DC-SIGN2",19p13.2
+HGNC:19319,CD300A,CD300a molecule,,"Irp60,CMRF35H,CMRF-35-H9,IRC1,IRC2,IGSF12",17q25.1
+HGNC:19320,CD300C,CD300c molecule,,"CMRF35,LIR,CMRF-35A,CMRF35A,IGSF16",17q25.1
+HGNC:28874,CD300E,CD300e molecule,CD300LE,"IREM2,CLM2",17q25.1
+HGNC:16916,CLEC10A,C-type lectin domain containing 10A,"CLECSF13,CLECSF14","HML2,HML,CD301",17p13.1
+HGNC:30843,CD302,CD302 molecule,,"DCL-1,KIAA0022,BIMLEC,CLEC13A",2q24.2
+HGNC:13258,CLEC4C,C-type lectin domain family 4 member C,"CLECSF11,CLECSF7","HECL,DLEC,BDCA2,CD303",12p13.31
+HGNC:8004,NRP1,neuropilin 1,,"NRP,VEGF165R,CD304",10p11.22
+HGNC:6477,LAIR1,leukocyte associated immunoglobulin like receptor 1,,CD305,19q13.42
+HGNC:6478,LAIR2,leukocyte associated immunoglobulin like receptor 2,,CD306,19q13.42
+HGNC:18509,FCRL1,Fc receptor like 1,,"FCRH1,IRTA5,IFGP1,CD307a",1q23.1
+HGNC:14875,FCRL2,Fc receptor like 2,SPAP1,"FCRH2,IRTA4,CD307b",1q23.1
+HGNC:18506,FCRL3,Fc receptor like 3,,"FCRH3,IRTA3,IFGP3,SPAP2a,SPAP2,SPAP2b,SPAP2c,SPAP2d,SPAP2e,CD307c",1q23.1
+HGNC:18507,FCRL4,Fc receptor like 4,,"FCRH4,IRTA1,IGFP2,CD307d",1q23.1
+HGNC:18508,FCRL5,Fc receptor like 5,,"FCRH5,IRTA2,BXMAS1,CD307e",1q23.1
+HGNC:6307,KDR,kinase insert domain receptor,,"FLK1,VEGFR,VEGFR2,CD309",4q12
+HGNC:3337,ADGRE2,adhesion G protein-coupled receptor E2,EMR2,CD312,19p13.12
+HGNC:18788,KLRK1,killer cell lectin like receptor K1,D12S2489E,"NKG2D,KLR,NKG2-D,CD314",12p13.2
+HGNC:9601,PTGFRN,prostaglandin F2 receptor inhibitor,,"FPRP,EWI-F,CD9P-1,FLJ11001,KIAA1436,SMAP-6,CD315",1p13.1
+HGNC:17813,IGSF8,immunoglobulin superfamily member 8,,"CD81P3,EWI2,PGRL,CD316",1q23.2
+HGNC:1119,BST2,bone marrow stromal cell antigen 2,,"CD317,tetherin",19p13.11
+HGNC:24357,CDCP1,CUB domain containing protein 1,,"CD318,SIMA135",3p21.31
+HGNC:21394,SLAMF7,SLAM family member 7,,"CRACC,19A,CS1,CD319",1q23.3
+HGNC:16692,CD320,CD320 molecule,,"8D6,8D6A",19p13.2
+HGNC:14685,F11R,F11 receptor,JAM1,"PAM-1,JCAM,JAM-1,JAM-A,JAMA,CD321",1q23.3
+HGNC:14686,JAM2,junctional adhesion molecule 2,C21orf43,"VE-JAM,JAM-B,JAMB,CD322",21q21.3
+HGNC:1748,CDH1,cadherin 1,UVO,"uvomorulin,CD324",16q22.1
+HGNC:1759,CDH2,cadherin 2,NCAD,"CDHN,CD325",18q12.1
+HGNC:11529,EPCAM,epithelial cell adhesion molecule,"M4S1,MIC18,TACSTD1","Ly74,TROP1,GA733-2,EGP34,EGP40,EGP-2,KSA,CD326,Ep-CAM,HEA125,KS1/4,MK-1,MH99,MOC31,323/A3,17-1A,TACST-1,CO-17A,ESA",2p21
+HGNC:10875,SIGLEC6,sialic acid binding Ig like lectin 6,"CD33L,CD33L1","OB-BP1,SIGLEC-6,CD327",19q13.41
+HGNC:10876,SIGLEC7,sialic acid binding Ig like lectin 7,"SIGLEC19P,SIGLECP2","SIGLEC-7,p75/AIRM1,QA79,CD328",19q13.41
+HGNC:10878,SIGLEC9,sialic acid binding Ig like lectin 9,,CD329,19q13.3-q13.4
+HGNC:3688,FGFR1,fibroblast growth factor receptor 1,"FLT2,KAL2","H2,H3,H4,H5,CEK,FLG,BFGFR,N-SAM,CD331",8p11.23
+HGNC:3689,FGFR2,fibroblast growth factor receptor 2,"KGFR,BEK,CFD1,JWS","CEK3,TK14,TK25,ECT1,K-SAM,CD332",10q26.13
+HGNC:3690,FGFR3,fibroblast growth factor receptor 3,ACH,"CEK2,JTK4,CD333",4p16.3
+HGNC:3691,FGFR4,fibroblast growth factor receptor 4,,"JTK2,CD334",5q35.2
+HGNC:6731,NCR1,natural cytotoxicity triggering receptor 1,LY94,"NK-p46,NKP46,CD335",19q13.42
+HGNC:6732,NCR2,natural cytotoxicity triggering receptor 2,LY95,"NK-p44,CD336",6p21.1
+HGNC:19077,NCR3,natural cytotoxicity triggering receptor 3,LY117,"1C7,NKp30,CD337",6p21.33
+HGNC:74,ABCG2,ATP binding cassette subfamily G member 2 (Junior blood group),,"EST157481,MXR,BCRP,ABCP,CD338",4q22.1
+HGNC:6188,JAG1,jagged canonical Notch ligand 1,"AGS,JAGL1","AHD,AWS,HJ1,CD339",20p12.2
+HGNC:3430,ERBB2,erb-b2 receptor tyrosine kinase 2,NGL,"NEU,HER-2,CD340,HER2",17q12
+HGNC:4042,FZD4,frizzled class receptor 4,EVR1,CD344,11q14.2
+HGNC:4047,FZD9,frizzled class receptor 9,,"FZD3,CD349",7q11.23
+HGNC:4039,FZD10,frizzled class receptor 10,,CD350,12q24.33
+HGNC:24692,FCAMR,Fc fragment of IgA and IgM receptor,,"FKSG87,FCA/MR,CD351",1q32.1
+HGNC:21392,SLAMF6,SLAM family member 6,,"KALI,NTBA,KALIb,Ly108,SF2000,NTB-A,CD352",1q23.2-q23.3
+HGNC:21391,SLAMF8,SLAM family member 8,,"BLAME,SBBI42,CD353",1q23.2
+HGNC:17760,TREM1,triggering receptor expressed on myeloid cells 1,,"TREM-1,CD354",6p21.1
+HGNC:24313,CRTAM,cytotoxic and regulatory T cell molecule,,CD355,11q24.1
+HGNC:11914,TNFRSF18,TNF receptor superfamily member 18,,"AITR,GITR,CD357",1p36.33
+HGNC:13469,TNFRSF21,TNF receptor superfamily member 21,,"DR6,CD358",6p12.3
+HGNC:6006,IL21R,interleukin 21 receptor,,CD360,16p12.1
+HGNC:3500,EVI2B,ecotropic viral integration site 2B,,"D17S376,EVDB,CD361",17q11.2
+HGNC:10659,SDC2,syndecan 2,"HSPG,HSPG1","fibroglycan,SYND2,CD362",8q22.1
+HGNC:3165,S1PR1,sphingosine-1-phosphate receptor 1,EDG1,"edg-1,D1S3362,CD363",1p21.2
+HGNC:21245,PI16,peptidase inhibitor 16,,"MGC45378,dJ90K10.5,MSMBBP,CD364",6p21.2
+HGNC:17866,HAVCR1,hepatitis A virus cellular receptor 1,,"HAVCR-1,TIM-1,TIM1,HAVCR,TIMD1,CD365,KIM1",5q33.3
+HGNC:13257,CLEC4A,C-type lectin domain family 4 member A,CLECSF6,"DCIR,DDB27,CD367",12p13.31
+HGNC:14554,CLEC4D,C-type lectin domain family 4 member D,CLECSF8,"Mpcl,CD368,MCL,Dectin-3",12p13.31
+HGNC:14558,CLEC7A,C-type lectin domain containing 7A,CLECSF12,"dectin-1,hDectin-1,CD369,SCARE2",12p13.2
+HGNC:26705,CLEC9A,C-type lectin domain containing 9A,,"UNQ9341,HEEE9341,CD370,DNGR-1",12p13.2
+HGNC:31713,CLEC12A,C-type lectin domain family 12 member A,,"CLL-1,MICL,CD371,DCAL-2",12p13.31
