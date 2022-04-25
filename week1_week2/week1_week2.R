@@ -92,3 +92,42 @@ for (even_col in even_cols) {
 output <- as.data.frame(output)
 colnames(output) <- c("cell_line", "rho", "p-value", "number_of_|log2FC|>2")
 write.table(output, "wk1_vs_wk2_correlation_log2FC_analysis.tsv",sep = "\t", row.names = F)
+
+idx = grep("wk1",names(BG))
+wk1 <- BG[, idx]
+idx = grep("wk2",names(BG))
+wk2 <- BG[, idx]
+
+wk_1_d <- matrix(ncol = 1, nrow = 0)
+for (row in 1:dim(wk1)[2]){
+  wk_1_d <- rbind(wk_1_d, as.matrix(wk1[,row]))
+}
+colnames(wk_1_d) <- c("wk1")
+
+wk_2_d <- matrix(ncol = 1, nrow = 0)
+for (row in 1:dim(wk2)[2]){
+  wk_2_d <- rbind(wk_2_d, as.matrix(wk2[,row]))
+}
+colnames(wk_2_d) <- c("wk2")
+
+wk1_wk2_full <- as.data.frame(cbind(wk_1_d, wk_2_d))
+
+library("nortest")
+
+ad1 <- ad.test(wk1_wk2_full$wk1)
+stopifnot(ad1$p.value < 0.01)
+ad2 <- ad.test(wk1_wk2_full$wk2)
+stopifnot(ad2$p.value < 0.01)
+pdf("corr_spearman_wk1_vs_wk2_full.pdf")
+print(ggscatter(wk1_wk2_full, x = "wk1", y = "wk2", 
+                add = "reg.line", conf.int = TRUE, 
+                cor.coef = TRUE, cor.method = "spearman",
+                xlab = "wk1", ylab = "wk2", main = paste("Correllation test of all cell lines week 1 versus week 2")))
+dev.off()
+# https://statisticsbyjim.com/basics/correlations/
+res <-cor.test(wk1_wk2_full$wk1, wk1_wk2_full$wk2,  method = "spearman", exact = F)
+log2_FC <- log2(wk1_wk2_full$wk1) - log2(wk1_wk2_full$wk2)
+d2 <- as.data.frame(log2_FC)
+colnames(d2) <- c("wk1_vs_wk2_log2FC_all")
+write.table(d2, "wk1_vs_wk2_all_log2FC.tsv", sep = "\t")
+sum(log2_FC < -2 | log2_FC > 2) # 266 ~3% of 8550
