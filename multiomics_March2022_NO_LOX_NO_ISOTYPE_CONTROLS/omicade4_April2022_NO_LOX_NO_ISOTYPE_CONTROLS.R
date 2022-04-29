@@ -415,6 +415,11 @@ my.plot.mcia(mcoin, axes=1:2, phenovec=cancer_type, sample.lab=FALSE, df.color=1
 
 dev.off()
 
+## calculate 
+# and blue line corresponds to the percentage of variance of each PC, calculated as the eigenvalue divided by sum of all eigenvalues.
+sum(mcoin$mcoa$pseudoeig[1:10])/sum(mcoin$mcoa$pseudoeig) # 0.7471196
+
+
 ###################################################
 ### code chunk number 9: selectvar_mcia_melan
 ###################################################
