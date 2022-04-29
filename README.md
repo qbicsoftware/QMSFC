@@ -1,6 +1,6 @@
 # QMSFC
 
-Data and code for the `Identification of tumor biomarkers and immunotherapeutic targets by cell surface receptor profiling of the NCI-60 tumor cell panel` paper.
+Data and code for the `Integrated multiomics and surface receptor profiling of the NCI-60 tumor cell panel reveals novel theranostics for cancer immunotherapy` paper.
 
 ## Clone this repository
 
