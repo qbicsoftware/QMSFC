@@ -1,6 +1,6 @@
 # QMSFC
 
-Data and code for the `Distinct integrated multiomics surface receptor profiling of the NCI-60 tumor cell panel reveals novel theranostics for cancer immunotherapy` paper.
+Data and code for the `Multiomics surface receptor profiling of the NCI-60 tumor cell panel uncovers novel theranostics for cancer immunotherapy` paper.
 
 ## Clone this repository
 
