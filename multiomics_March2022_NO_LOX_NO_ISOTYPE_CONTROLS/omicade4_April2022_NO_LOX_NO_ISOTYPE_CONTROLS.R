@@ -233,6 +233,48 @@ NCI60_4arrays$FACS = subset(NCI60_4arrays$FACS, select = cmn)
 NCI60_4arrays$agilent <-NULL
 sapply(NCI60_4arrays, dim)
 
+facs <- NCI60_4arrays$FACS
+library(e1071)
+# var(unlist(lapply(facs[grep("PR", colnames(facs))], as.numeric), use.names = FALSE))
+cancer_type_uniq <- colnames(NCI60_4arrays$Tx)
+cancer_type_uniq <- sapply(strsplit(cancer_type, split="\\."), function(x) x[1])
+cancer_type_uniq <- unique(cancer_type_uniq)
+
+for (ct in cancer_type_uniq) {
+  print(ct)
+  print(kurtosis(unlist(lapply(facs[grep(ct, colnames(facs))], as.numeric), use.names = FALSE)))
+  print(skewness(unlist(lapply(facs[grep(ct, colnames(facs))], as.numeric), use.names = FALSE)))
+  print(var(unlist(lapply(facs[grep(ct, colnames(facs))], as.numeric), use.names = FALSE)))
+  # leptokurtic
+  # skewed towards the right
+}
+
+kurtosis(unlist(lapply(facs[grep("PR", colnames(facs))], as.numeric), use.names = FALSE))
+skewness(unlist(lapply(facs[grep("PR", colnames(facs))], as.numeric), use.names = FALSE))
+
+PR <- facs[grep("PR", colnames(facs))]
+PR_ <- rbind(matrix(ncol = 1, nrow = 0), as.matrix(PR[,1]))
+PR_ <- rbind(PR_, as.matrix(PR[,2]))
+PR_ <- as.data.frame(PR_)
+colnames(PR_) <- c("MFI")
+PR_$group <- rep("PR", dim(PR_)[1])
+
+BR <- facs[grep("BR", colnames(facs))]
+BR_ <- rbind(matrix(ncol = 1, nrow = 0), as.matrix(BR[,1]))
+BR_ <- rbind(BR_, as.matrix(BR[,2]))
+BR_ <- rbind(BR_, as.matrix(BR[,3]))
+BR_ <- rbind(BR_, as.matrix(BR[,4]))
+BR_ <- rbind(BR_, as.matrix(BR[,5]))
+
+BR_ <- as.data.frame(BR_)
+colnames(BR_) <- c("MFI")
+BR_$group <- rep("BR", dim(BR_)[1])
+
+BR_PR_  <- rbind(BR_, PR_)
+
+library(car)
+leveneTest(MFI ~ group, data=BR_PR_)
+
   ###################################################
 ### code chunk number 4: Check_col_order
 ###################################################
